@@ -1,0 +1,2 @@
+contract address : 0x52F126073A29e49F123bF6Ca5EcdB2228073BC18
+Test deployment of the smart contract can be found at https://ropsten.etherscan.io/address/0x52f126073a29e49f123bf6ca5ecdb2228073bc18
